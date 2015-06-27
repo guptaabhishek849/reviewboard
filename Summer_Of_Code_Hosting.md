@@ -1,0 +1,1 @@
+This page has moved. See http://www.review-board.org/summer-of-code/hosting/

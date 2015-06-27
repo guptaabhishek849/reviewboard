@@ -1,0 +1,1 @@
+This page is deprecated. See http://www.review-board.org/docs/manual/dev/admin/sites/upgrading-sites/
